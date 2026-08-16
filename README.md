@@ -150,3 +150,29 @@ Aerospace Engineering Student
 ---
 
 *This project was developed as an academic aircraft-performance analysis using fundamental aerodynamic and performance equations.*
+
+## Performance Graphs
+
+### Lift Coefficient vs Velocity
+
+![CL vs Velocity](screenshots/cl_vs_velocity.png)
+
+### Drag Coefficient vs Velocity
+
+![CD vs Velocity](screenshots/cd_vs_velocity.png)
+
+### Drag vs Velocity
+
+![Drag vs Velocity](screenshots/drag_vs_velocity.png)
+
+### Thrust Required vs Thrust Available
+
+![Thrust Performance](screenshots/thrust_performance.png)
+
+### Power Required vs Power Available
+
+![Power Performance](screenshots/power_performance.png)
+
+### Rate of Climb vs Velocity
+
+![Rate of Climb](screenshots/rate_of_climb.png)
