@@ -96,6 +96,14 @@ ROC = (P_available − P_required) / W
 | Speed for Maximum ROC | 74.75 m/s |
 | Maximum Rate of Climb | 15.91 m/s |
 
+## Key Findings
+
+The analysis predicts a stall speed of 28.30 m/s and a maximum lift-to-drag ratio of 14.18 at approximately 41.16 m/s.
+
+With a modeled thrust availability of 4000 N, the aircraft reaches a maximum level-flight speed of approximately 127.08 m/s (457.48 km/h).
+
+The maximum predicted rate of climb is 15.91 m/s at approximately 74.75 m/s.
+
 ## Performance Graphs
 
 The program generates the following performance plots:
